@@ -1,0 +1,6 @@
+{
+  "name": "Kodluyoruz HTML Ödev 2",
+  "description": "Kodluyoruz Eğitimi HTML Ödev 2 için semantik, görsel ve bağlantılı eksiksiz web sayfası.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
